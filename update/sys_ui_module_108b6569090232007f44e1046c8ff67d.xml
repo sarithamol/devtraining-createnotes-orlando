@@ -23,6 +23,9 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-04-10 15:48:51</sys_updated_on>
         <table>x_snc_createnotes_note</table>
+        <u_leave/>
+        <u_location/>
+        <u_state/>
         <uncancelable>false</uncancelable>
         <view_name/>
     </sys_ui_module>
